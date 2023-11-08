@@ -63,4 +63,3 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 ---
 
-This updated README now specifies the use of NetBeans as the IDE for your project. Make sure to provide detailed information on how to open and work with the project in NetBeans for the convenience of contributors and users.
